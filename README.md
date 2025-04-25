@@ -59,12 +59,33 @@ OpenCV • TensorFlow/Keras • Data Preprocessing • CNNs • NumPy • Matplo
 
 ---
 
-### 🧠 Certifications & Courses
+## 🏅 Certifications
 
-- Android App Development - Udemy (2024)  
-- Python for Data Science - NPTEL  
-- Operating Systems & DBMS - Coursera  
-- Git & GitHub Essentials - LinkedIn Learning  
+Here are some of my most relevant and impactful certifications:
+
+- 📜 **[Build Real World AI Applications with Gemini and Imagen](https://www.cloudskillsboost.google/public_profiles/a3ad07e5-79f5-4534-8ae9-6f94ab683458/badges/15142978?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)**  
+  *Issued by Google Cloud Skills Boost | Credential ID: 15142978*
+
+- 📜 **[Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/a3ad07e5-79f5-4534-8ae9-6f94ab683458/badges/15079075?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)**  
+  *Issued by Google Cloud Skills Boost | Credential ID: 15079075*
+
+- 📜 **[Software Engineer](https://www.hackerrank.com/certificates/600fdb0aa113)**  
+  *Issued by HackerRank | Credential ID: 600fdb0aa113*
+
+- 📜 **[Android App Development](https://trainings.internshala.com/)**  
+  *Issued by Internshala | Credential ID: bxeec7efy00*
+
+- 📜 **[Git & GitHub](https://nsdcindia.org/)**  
+  *Issued by NSDC Academy | Credential ID: 3is0ef255t6ye340*
+
+- 📜 **[Web Development Training](https://trainings.internshala.com/)**  
+  *Issued by  | Credential ID: j3v0hpyy9om*
+
+- 📜 **[Data Structures and Algorithms](https://gdsc.community.dev/)**  
+  *Issued by Google Developer Student Clubs*
+
+- 📜 **[Core Java](https://trainings.internshala.com/verify-certificate/)**  
+  *Issued by Internshala Trainings | Credential ID: b3536dnxkme*
 
 ---
 
