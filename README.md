@@ -27,7 +27,7 @@
 - 📦 Learning advanced tools like **MVVM**, **Room DB**, **Retrofit**, **Firebase**, **TensorFlow Lite**
 - 💡 I love working on ideas that blend **AI + Mobile**
 - 📫 Reach me: **ashuchoudhary7983@gmail.com**
-- 📄 My Resume: [View here](https://drive.google.com/file/d/1yZgROMPY3EN3Xe7YjCM3vteyhiUsKSKL/view?usp=sharing)
+- 📄 My Resume: [View here](https://drive.google.com/file/d/1EODf0qfoTnblNGrKTvGuWhorQZt-hg1Q/view?usp=drive_link)
 
 ---
 
